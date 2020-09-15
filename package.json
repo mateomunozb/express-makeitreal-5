@@ -1,0 +1,27 @@
+{
+  "name": "express-makeitreal-5",
+  "version": "1.0.0",
+  "description": "Ejercicio 5 express MakeitReal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateomunozb/express-makeitreal-5.git"
+  },
+  "keywords": [
+    "express",
+    "mongo",
+    "makeitrela"
+  ],
+  "author": "Mateo Muñoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateomunozb/express-makeitreal-5/issues"
+  },
+  "homepage": "https://github.com/mateomunozb/express-makeitreal-5#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
