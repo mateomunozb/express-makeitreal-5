@@ -13,4 +13,4 @@ app.get('/', (req, res) => {
   res.end()
 })
 
-app.listen(9000, () => console.log('Listening on port 9000!'))
+app.listen(3000, () => console.log('Listening on port 3000!'))
